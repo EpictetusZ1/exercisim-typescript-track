@@ -1,11 +1,11 @@
 # Debugging
-.html
+*.html
 
 # Complied TS 
-.js
+*.js
 
 # IDE
 .idea/
 
 # Personal Notes
-.txt
+*.txt
